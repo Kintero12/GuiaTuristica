@@ -1,0 +1,70 @@
+/*Contenido CSS de la index*/
+
+           table{
+              border: hidden;
+              width: 100%;
+              border-collapse: collapse;
+           }
+           td{
+              border: hidden;
+              font-weight: bold;
+              font-size: 25px;
+              height: 50;
+            }
+           h1{
+               text-align: center;
+               color:white;                
+               font-size: 60px;
+               font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            }
+           a{
+               text-decoration: none;
+               color: black;
+               font-weight: bold;
+               margin: 10px;
+           }
+           body{  
+              margin: 0;
+              padding: 0;
+           }
+           #texto1{
+               color:black;
+               font-size: 30px;
+               font-weight: bold;
+               margin: 5px;                
+               padding: 5px;
+           }
+           #texto2{
+               color:black;
+               font-size: 23px;
+               font-weight: bold;
+               margin: 1px;
+               text-align: right;
+           }
+           #texto3{
+               color:black;
+               font-size: 23px;
+               font-weight: bold;
+               margin: 1px;                
+               text-align: right;               
+               font-family: 'Didot';
+           }
+           #texto4{
+               color:rgb(21, 113, 119);
+               font-size: 15px;
+               font-weight: bold;
+               margin: 5px;                
+               text-align: left;
+           }
+           #texto5{
+                color:black;
+                font-size: 25px;
+                font-weight: bold;
+                margin: 5px;  
+            }
+            #texto6{
+                color:rgb(21, 113, 119);
+                font-size: 20px;
+                font-weight: bold;
+                margin: 10px;         
+            }
